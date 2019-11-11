@@ -1,0 +1,26 @@
+{
+  "name": "slack-connector",
+  "version": "1.0.0",
+  "description": "Avaamo slack connector",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "avaamo",
+    "slack",
+    "slackintegration"
+  ],
+  "author": "Zeeshan Amber",
+  "license": "ISC",
+  "dependencies": {
+    "asyncawait": "^1.0.8",
+    "body-parser": "^1.19.0",
+    "download": "^7.1.0",
+    "express": "^4.17.1",
+    "form-data": "^2.5.1",
+    "ngrok": "^3.2.5",
+    "node-fetch": "^2.6.0",
+    "npm": "^6.12.0"
+  }
+}

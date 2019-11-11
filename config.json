@@ -1,0 +1,20 @@
+{
+  "port": 3090,
+  "slack": {
+  
+    "webhook": "https://hooks.slack.com/services/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",
+    "accessToken": "xoxb-779115511136-779287397749-BQuA0KuQqIo1xYwRU3IdFvp2",
+    "api": "https://slack.com/api"
+  },
+  "avaamo": {
+    "webhook": "https://c0.avaamo.com//bot_connector_webhooks/c754feed-9f57-4159-a7df-8e009facee7f/message.json",
+    "customChannel": {
+      "channelUuid": "e5a9ca90-8b5e-4403-b916-600120f5662a",
+      "user": {
+        "firstName": "Slack",
+        "lastName": "Channel",
+        "uuid": "9ac15843-151d-47fb-8b3d-930b89ce797e"
+      }
+    }
+  }
+}

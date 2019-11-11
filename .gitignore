@@ -1,0 +1,6 @@
+node_modules
+.tool-versions
+logs/*.log
+tmp
+config.json
+package-lock.json
